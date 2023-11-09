@@ -217,7 +217,7 @@ footer{
     }
 @media  and (max-width: 300px) {
         #projectsdiv{
-            visibility: collapse;
+            visibility: visible;
         }
         
     }
