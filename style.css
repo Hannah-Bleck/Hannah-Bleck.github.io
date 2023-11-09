@@ -215,3 +215,9 @@ footer{
         font-size: 1.5rem;
     }
     }
+@media  and (max-width: 300px) {
+        #projectsdiv{
+            visibility: collapse;
+        }
+        
+    }
