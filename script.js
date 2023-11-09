@@ -4,7 +4,7 @@
     };
       
       function myFunction() {
-        if (document.documentElement.scrollTop > 350) {
+        if (document.documentElement.scrollTop > 20) {
             document.getElementById("projectsdiv").className = "slideUp";
             document.getElementById("projectsdiv").style.visibility = "visible";
             document.getElementById("secondseperator").style.visibility = "visible";
